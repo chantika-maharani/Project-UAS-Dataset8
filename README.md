@@ -7,7 +7,7 @@
 - **Intan Fairuz Nur Asiyah** (2488010005)  
 *(Varian Dasar)*
 - **Tiara Salsabila** (2488010045)  
-*(Varian Parameter / Perlakuan Data)*
+*(Varian Parameter/Perlakuan Data)*
 
 **Kelas:** Informatika 5C
 
@@ -16,7 +16,6 @@
 ### Informasi Proyek
 - **Paket Dataset:** Estimation of Obesity Levels Based On Eating Habits and Physical Condition
 - **Metode:** K-Means Clustering (Metode 3)
-- **Tautan Aplikasi:** [Masukkan Link Deploy Aplikasi di sini, misal: Streamlit Cloud / HuggingFace]
 - **Repositori GitHub:** [Project-UAS-Dataset8-5C](https://github.com/chantika-maharani/Project-UAS-Dataset8)
 
 ---
