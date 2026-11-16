@@ -13,7 +13,6 @@
 ### Informasi Proyek
 * **Paket Dataset:** Estimation of Obesity Levels Based On Eating Habits and Physical Condition
 * **Metode:** K-Means Clustering (Metode 3)
-* **Tautan Aplikasi:** [Masukkan Link Deploy Aplikasi di sini, misal: Streamlit Cloud / HuggingFace]
 * **Repositori GitHub:** [Project-UAS-Dataset8-5C](https://github.com/chantika-maharani/Project-UAS-Dataset8)
 
 ---
