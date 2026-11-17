@@ -2,12 +2,13 @@
 ## Analisis Klastering Tingkat Obesitas Berdasarkan Kebiasaan Makan dan Aktivitas Fisik Menggunakan K-Means
 
 ### Anggota Kelompok
-- **Chantika Maharani** (2488010080)  
-*(Varian Pemilihan Fitur)*
 - **Intan Fairuz Nur Asiyah** (2488010005)  
 *(Varian Dasar)*
 - **Tiara Salsabila** (2488010045)  
 *(Varian Parameter/Perlakuan Data)*
+- **Chantika Maharani** (2488010080)  
+*(Varian Pemilihan Fitur)*
+
 
 **Kelas:** Informatika 5C
 
